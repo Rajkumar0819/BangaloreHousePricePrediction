@@ -30,7 +30,7 @@ A user-friendly interface is developed using Python Streamlit. The UI allows use
 
 #### Clone the repository: git clone 
 ```
-
+https://github.com/Rajkumar0819/BangaloreHousePricePrediction.git
 ```
 #### Install dependencies: 
 Create a virtual environment venv
